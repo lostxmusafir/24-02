@@ -1,0 +1,4 @@
+new background 3d 
+flotter
+add image 3d 
+add model
