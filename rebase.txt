@@ -3,3 +3,5 @@ closed tools
 nex gen tools
 minimal added
 top nav bar added
+new text added
+small text top bar 
