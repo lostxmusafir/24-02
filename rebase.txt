@@ -1,2 +1,5 @@
 navbar added 
 closed tools
+nex gen tools
+minimal added
+top nav bar added
