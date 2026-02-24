@@ -1,3 +1,11 @@
 navbar added 
 closed tools
+<<<<<<< HEAD
+nex gen tools
+minimal added
+top nav bar added
+new text added
+small text top bar 
+=======
 add 3d models
+>>>>>>> rebase
